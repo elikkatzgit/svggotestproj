@@ -4,6 +4,6 @@ go 1.18
 
 require (
 	github.com/elikkatzorg/pubmod v0.1.0
-	github.com/tdewolff/minify/v2 v2.11.2
+	github.com/tdewolff/minify/v2 v2.11.5
 	github.com/tdewolff/parse/v2 v2.5.29
 	)
