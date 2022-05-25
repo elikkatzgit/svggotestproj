@@ -5,7 +5,7 @@ import (
 
 	"github.com/svg-at-wss/secretmod"
 
-	"github.com/svg-at-wss/pubmod"
+	"github.com/elikkatzorg/pubmod"
 )
 
 func main() {
