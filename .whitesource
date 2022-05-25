@@ -30,7 +30,16 @@
 			"automerge": true
 		},
 		"recreateClosed": true,
-		"dependencyDashboardTitle": "Test deps dashboard 6"
+		"dependencyDashboardTitle": "Test deps dashboard 6",
+			"hostRules": [
+    {
+      "matchHost": "https://github.com/elikkatzorg",
+      "hostType": "go",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf7BnYpOZLdCMoX08LSncQkgqNRoLQh1aybol/cbIgjuJAUcjZIduXglN71+obMUeyHX2/mqAMs+9iGvcrtLRfmb8M83D/OP4arKtNuVUjqNYpbwUy8ERAYu/+w3lLzf3WX14pVopi1SjemVbNDdsKxjh6gOVaW4kC55uvs/j90YVtJKVpcdc1I1oIngBCOKe7X1x/s3dSjG8DnRfIAeSSmanpTKeTtIlONToNXcItARyQSh0nzTVZWaDmi7vO0Zq3wcrIHBhv/W1GJdP9Vk+Dwyfzd/ceX80qhWAZ18g62wJWys/P23f2raRM64vpK3WNIzhmBrgQsdp3O7o5fIfd+JtJ6AUD8rffEThKTxUNNmVap5wRqqQHPZuRTy6m3IofgEMxm6+cIQfLR1n1eEUw4mSmuH2Vrgq/2+nvxchAPnfAY+932CCglus5xNCa+kTC1KpfoyXGJP9ke2WQSlCwBgnb/FexD7k65+B9zDK51bF5dfumEEoopzroIEfc"
+      }
+    }
+]
 	},
 	"hostRules": [
     {
